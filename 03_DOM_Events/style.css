@@ -113,7 +113,9 @@ form {
   display: flex;
   flex-direction: column;
 }
-
+button {
+  cursor: pointer;
+}
 footer {
   text-align: center;
 }
